@@ -4,7 +4,7 @@
 🔭 I’m currently working on Personal and paid projects <br>
 👯 I’m looking to collaborate on New and exciting projects<br><br>
 
-⚡ Fun fact Everything works on my machine ¯\_(ツ)_/¯<br>
+⚡ Fun fact: Everything works on my machine ¯\_(ツ)_/¯<br>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mbah.javis.o) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbah-javis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mbjavis) 
