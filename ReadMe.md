@@ -1,4 +1,6 @@
-# 💫About Me :
+## 💫About Me 
+Hi 👋, I'm Javis <br>
+A passionate software developer from Cameroon <br>
 🔭 I’m currently working on Personal and paid projects <br>
 👯 I’m looking to collaborate on New and exciting projects<br><br>
 
