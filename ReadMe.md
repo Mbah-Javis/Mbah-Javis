@@ -2,7 +2,7 @@
  Hi 👋, I'm Javis <br>
  Just your average code wizard, turning procrastination into commits, bugs into feature requests and caffeine into working software. <br> 
  Follow me at your own risk <br>
- ![image](https://user-images.githubusercontent.com/46462797/213817622-78138e33-f1a8-405c-933a-84aca7eb89e7.png)
+ ![image](https://emojipedia-us.s3.amazonaws.com/source/skype/289/ninja_1f977.png)
 
 ⚡ Fun fact: Everything works on my machine ¯\_(ツ)_/¯<br>
 
