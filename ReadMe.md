@@ -1,8 +1,7 @@
 ## 💫About Me 
  Hi 👋, I'm Javis <br>
- A passionate software developer from Cameroon <br>
-🔭 I’m currently working on Personal and paid projects <br>
-👯 I’m looking to collaborate on New and exciting projects<br>
+ Just your average code wizard, turning procrastination into commits, bugs into feature requests and caffeine into working software. <br> 
+ Follow me at your own risk ![image](https://user-images.githubusercontent.com/46462797/213817483-3a046c14-c884-4d33-a34f-fb92479b7683.png)
 
 ⚡ Fun fact: Everything works on my machine ¯\_(ツ)_/¯<br>
 
