@@ -1,6 +1,6 @@
 ## 💫About Me 
  Hi 👋, I'm Javis <br>
- Just your average code wizard, turning procrastination into commits, bugs into feature requests and caffeine into working software. <br> 
+ Just your average programmer, turning procrastination into commits, bugs into feature requests and caffeine into working software. <br> 
  Follow me at your own risk <br>
  ![image](https://emojipedia-us.s3.amazonaws.com/source/skype/289/ninja_1f977.png)
 
