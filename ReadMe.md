@@ -6,7 +6,7 @@
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ninja_1f977.png" alt="Ninja" />
 <br>
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbah-javis" alt="mbah-javis" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbah-javis" alt="mbah-javis" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/mbjavis" target="blank"><img src="https://img.shields.io/twitter/follow/mbjavis?logo=twitter&style=for-the-badge" alt="mbjavis" /></a> </p>
 
