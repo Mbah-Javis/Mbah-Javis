@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on [Dimoly Inc](dimoly.com)
 
-- 🌱 I’m wrapping up with **Typescript (PS never really liked TS but it's making sense 😉)**
+- 🌱 I’m wrapping up with **Solidity**
 
 - 👯 I’m looking to collaborate on **New and Innovative ideas!**
 
-- 💬 Ask me about **AI dev, Mobile dev, Backend dev and Frontend Dev**
+- 💬 Ask me about **AI dev, Mobile dev, Backend dev, Blockchain and Frontend Dev**
 
 - 📫 How to reach me **javismbah2025@gmail.com**
 
