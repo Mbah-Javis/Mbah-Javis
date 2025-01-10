@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/javis_mb" target="blank"><img src="https://img.shields.io/twitter/follow/javis_mb?logo=twitter&style=for-the-badge" alt="javis_mb" /></a> </p>
 
-- 🔭 I’m currently working on [Dimoly Inc](dimoly.com)
+- 🔭 I’m currently working on <a href="https://dimoly.com" target="blank">Dimoly</a>
 
 - 🌱 I’m wrapping up with **Solidity**
 
