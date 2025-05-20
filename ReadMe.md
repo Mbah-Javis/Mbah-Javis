@@ -1,7 +1,9 @@
 ## 💫About Me 
 
-<h1 align="left">Hi 👋, I'm Javis</h1>
-<h3 align="left">Your friendly neighborhood Software Engineer passionate about diving into creative and <br> quirky projects that push the boundaries of innovation!</h3>
+<p>👋 Hi, I’m <h1>Mbah Javis</h1> 👨🏾‍💻 A passionate builder and problem solver.</p>
+<p>💡 I love turning ideas into products </p>
+<p>🚀 Currently working on innovative tools that improve learning, business operations, and user experiences.</p>
+<p>🔗 Exploring how blockchain can power transparency, trust, and smarter data use.</p>
 <br>
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ninja_1f977.png" alt="Ninja" />
 <br>
@@ -9,8 +11,6 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbah-javis" alt="mbah-javis" /></a> </p>-->
 
 <p align="left"> <a href="https://twitter.com/javis_mb" target="blank"><img src="https://img.shields.io/twitter/follow/javis_mb?logo=twitter&style=for-the-badge" alt="javis_mb" /></a> </p>
-
-- 🔭 I’m currently working on <a href="https://dimoly.com" target="blank">Dimoly</a>
 
 - 🌱 I’m wrapping up with **Solidity**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **javismbah2025@gmail.com**
 
-- ⚡ Fun fact **Everything works on my machine ¯_(ツ)_/¯**
+- ⚡ Fun fact: **Everything works on my machine ¯_(ツ)_/¯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
